@@ -11,3 +11,5 @@ I think I'm able to follow it very well. Don't be daunted, you have help.
 I'm going to be working with the game-engine, unity.
 There's some really cool things we can make with it together.
 That should be it for now, passers by! Have a nice day x
+
+my mouse is not doing fine, sigh.
